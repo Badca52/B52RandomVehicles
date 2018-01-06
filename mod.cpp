@@ -1,0 +1,10 @@
+name        = "B52 Random Vehicles";
+author      = "Badca52";
+picture     = "52.paa";
+logo        = "52.paa";
+logoOver    = "52.paa";
+actionName  = "Website";
+action      = "http://www.github.com/Badca52";
+tooltip     = "B52 Random Vehicles";
+overview    = "B52 Random Vehicles";
+description = "B52 Random Vehicles";
